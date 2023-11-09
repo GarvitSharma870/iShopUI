@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Samsung Galaxy P6",
+        "imagePath": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-a546elvcins/gallery/in-galaxy-a54-5g-sm-a546-sm-a546elvcins-535917323?imwidth=480",
+        "price": "14,999",
+        "desc": "This is best product ever"
+    },
+    {
+        "id": 2,
+        "name": "Realme C53",
+        "imagePath": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/h/d/-original-imags487gaqqhcea.jpeg?q=70",
+        "price": "10,999",
+        "desc": "This is best product ever"
+    },
+    {
+        "id": 3,
+        "name": "Realme GT Neo 2",
+        "imagePath": "https://rukminim2.flixcart.com/image/312/312/l3rmzrk0/mobile/y/u/s/-original-imagetmefgcxw2ye.jpeg?q=70",
+        "price": "25,999",
+        "desc": "This is best product ever"
+    },
+    {
+        "id": 4,
+        "name": "Realme GT 5G",
+        "imagePath": "https://rukminim2.flixcart.com/image/312/312/l3rmzrk0/mobile/f/z/n/-original-imagetme3gzbnc3z.jpeg?q=70",
+        "price": "25,999",
+        "desc": "This is best product ever"
+    },
+    {
+        "id": 5,
+        "name": "Realme 10",
+        "imagePath": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/1/7/l/-original-imaghgcj2z5cfugg.jpeg?q=70",
+        "price": "9,999",
+        "desc": "This is best product ever"
+    },
+    {
+        "id": 6,
+        "name": "Poco C51",
+        "imagePath": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/f/a/8/-original-imagrgwm3fcnzqng.jpeg?q=70",
+        "price": "5,999",
+        "desc": "This is best product ever"
+    },
+    {
+        "id": 7,
+        "name": "Samsung Galaxy F54 5G",
+        "imagePath": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-a546elvcins/gallery/in-galaxy-a54-5g-sm-a546-sm-a546elvcins-535917323?imwidth=480",
+        "price": "14,999",
+        "desc": "This is best product ever"
+    },
+    {
+        "id": 8,
+        "name": "Vivo T1 44W",
+        "imagePath": "https://rukminim2.flixcart.com/image/312/312/l2p23rk0/mobile/s/4/3/-original-imagdznhcbdfwfud.jpeg?q=70",
+        "price": "14,999",
+        "desc": "This is best product ever"
+    },
+    {
+        "id": 9,
+        "name": "Apple iPhone 14 Plus",
+        "imagePath": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/4/d/-original-imaghx9qygjjg8hz.jpeg?q=70",
+        "price": "14,999",
+        "desc": "This is best product ever"
+    },
+    {
+        "id": 10,
+        "name": "Samsung Galaxy P6",
+        "imagePath": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-a546elvcins/gallery/in-galaxy-a54-5g-sm-a546-sm-a546elvcins-535917323?imwidth=480",
+        "price": "14,999",
+        "desc": "This is best product ever"
+    }
+]
